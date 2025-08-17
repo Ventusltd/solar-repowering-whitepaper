@@ -3,7 +3,7 @@ Open, data-driven analysis and strategy for repowering ageing solar farms with m
 AI research - BETA (no responsibility for accuracy!) 
 
 
-We are creating an open database which will be corrected over time using publicly available data. AI can make mistakes, use at you own risk 
+We are creating an open database which will be corrected over time using publicly available data. AI can make mistakes, use at your own risk 
 
 | Rank | Name                               | Capacity | Country        | Owner / Investor                                | Year |
 |------|------------------------------------|----------|----------------|------------------------------------------------|------|

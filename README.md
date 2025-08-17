@@ -1,6 +1,7 @@
 Solar Repowering Whitepaper
 Open, data-driven analysis and strategy for repowering ageing solar farms with modern technology and safety upgrades.
 AI research - BETA (no responsibility for accuracy!) 
+We are creating open database which will be corrected over time using publicly available data. AI cam make mistakes, use at you own risk 
 
 | Rank | Name                               | Capacity | Country        | Owner / Investor                                | Year |
 |------|------------------------------------|----------|----------------|------------------------------------------------|------|

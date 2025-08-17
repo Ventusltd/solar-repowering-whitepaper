@@ -5,6 +5,8 @@ AI research - BETA (no responsibility for accuracy!)
 
 We are creating an open database which will be corrected over time using publicly available data. AI can make mistakes, use at your own risk 
 
+For corrections, contact us via www.ventusltd.com 
+
 | Rank | Name                               | Capacity | Country        | Owner / Investor                                | Year |
 |------|------------------------------------|----------|----------------|------------------------------------------------|------|
 | 1    | Witznitz Energy                    | 650 MWp  | Germany        | Move On Energy, HANSAINVEST                    | 2024 |
